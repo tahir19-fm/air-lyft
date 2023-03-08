@@ -83,14 +83,3 @@ lint/generated/
 lint/outputs/
 lint/tmp/
 # lint/reports/
-
-
-
-
-#amplify
-amplifyconfiguration.json
-.idea/misc.xml
-app/build/intermediates/project_dex_archive/debug/out/com/team/airlyft/login/ui/LoginScreensKt$VerifyMobileNumber$2.dex
-*.bin
-*.probe
-*.xml
